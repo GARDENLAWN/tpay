@@ -14,10 +14,10 @@
     },
     "autoload": {
         "files": [
-            "src/registration.php"
+            "registration.php"
         ],
         "psr-4": {
-            "Snowdog\\Hyva\\Checkout\\TPay\\": "src"
+            "Snowdog\\Hyva\\Checkout\\TPay\\": ""
         }
     }
 }
